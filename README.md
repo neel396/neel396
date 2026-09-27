@@ -74,7 +74,6 @@ Full-stack ticket booking platform — Spring Boot backend, REST API, MySQL data
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=neel396&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neel396&theme=radical" height="165"/>
 </p>
 
